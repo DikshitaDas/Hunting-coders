@@ -67,57 +67,43 @@ Unlike typical web applications that rely on databases, **Hunting Coders** uses 
 ![Contact Us](https://github.com/DikshitaDas/Hunting-coders/blob/main/screenshots/contact-us.png)
 
 ---
-
 ## 📥 Installation & Setup
 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/DikshitaDas/Hunting-coders.git
-Navigate into the project folder
-
-bash
-Copy code
-cd Hunting-coders
-Install dependencies
-
-bash
-Copy code
-npm install
-Start the development server
-
-bash
-Copy code
-npm run dev
-Open http://localhost:3000 in your browser to explore!
-
+2.	Navigate into the project folder
+3.	cd Hunting-coders
+4.	Install dependencies
+5.	npm install
+6.	Start the development server
+7.	npm run dev
+8.	Open http://localhost:3000 in your browser to explore!
+________________________________________
 🎨 Styling
 ✔ Uses CSS Modules for component-specific styling
 ✔ Global styles in globals.css for base formatting
 ✔ Clean and minimalistic design to prioritize readability and user experience
-
+________________________________________
 📖 Learnings & Highlights
 📂 File-Based Data Handling
 Learn how to manage content with JSON files, perfect for static sites and prototypes.
-
 ⚙ API Routes as Serverless Functions
 Explore how Next.js API routes can process requests, read/write files, and serve dynamic content without a traditional backend.
-
 🎨 CSS Modules for Scoped Styling
 Apply modern CSS techniques to avoid style conflicts and ensure maintainable code.
-
 📱 Responsive Design Principles
 Build layouts that adapt smoothly to multiple screen sizes using plain CSS.
-
+________________________________________
 📦 Scripts
-npm run dev – Run the project in development mode
-
-npm run build – Build the optimized production version
-
-npm start – Launch the production build locally
-
+•	npm run dev – Run the project in development mode
+•	npm run build – Build the optimized production version
+•	npm start – Launch the production build locally
+________________________________________
 📜 License
 This project is licensed under the MIT License – feel free to use, modify, and share it! ❤️
-
+________________________________________
 📬 Connect with Me
 Made with ❤️ by DikshitaDas
 Dive into Next.js, experiment with file-based workflows, and keep building amazing projects! 🚀📚✨
+________________________________________
