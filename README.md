@@ -80,30 +80,49 @@ Unlike typical web applications that rely on databases, **Hunting Coders** uses 
 7.	npm run dev
 8.	Open http://localhost:3000 in your browser to explore!
 ________________________________________
-🎨 Styling
-✔ Uses CSS Modules for component-specific styling
-✔ Global styles in globals.css for base formatting
+
+## 🎨 Styling
+
+✔ Uses **CSS Modules** for component-specific styling
+✔ Global styles in `globals.css` for base formatting
 ✔ Clean and minimalistic design to prioritize readability and user experience
-________________________________________
-📖 Learnings & Highlights
-📂 File-Based Data Handling
+
+---
+
+## 📖 Learnings & Highlights
+
+📂 **File-Based Data Handling**
 Learn how to manage content with JSON files, perfect for static sites and prototypes.
-⚙ API Routes as Serverless Functions
+
+⚙ **API Routes as Serverless Functions**
 Explore how Next.js API routes can process requests, read/write files, and serve dynamic content without a traditional backend.
-🎨 CSS Modules for Scoped Styling
+
+🎨 **CSS Modules for Scoped Styling**
 Apply modern CSS techniques to avoid style conflicts and ensure maintainable code.
-📱 Responsive Design Principles
+
+📱 **Responsive Design Principles**
 Build layouts that adapt smoothly to multiple screen sizes using plain CSS.
-________________________________________
-📦 Scripts
-•	npm run dev – Run the project in development mode
-•	npm run build – Build the optimized production version
-•	npm start – Launch the production build locally
-________________________________________
-📜 License
-This project is licensed under the MIT License – feel free to use, modify, and share it! ❤️
-________________________________________
-📬 Connect with Me
-Made with ❤️ by DikshitaDas
+
+---
+
+## 📦 Scripts
+
+• `npm run dev` – Run the project in development mode
+• `npm run build` – Build the optimized production version
+• `npm start` – Launch the production build locally
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** – feel free to use, modify, and share it! ❤️
+
+---
+
+## 📬 Connect with Me
+
+Made with ❤️ by **DikshitaDas**
 Dive into Next.js, experiment with file-based workflows, and keep building amazing projects! 🚀📚✨
-________________________________________
+
+
+
