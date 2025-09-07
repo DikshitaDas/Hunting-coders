@@ -1,0 +1,5 @@
+{
+  "title": "Learn React.js in 2025",
+  "metaDesc": "A modern guide to learning React.js in 2025 with components, hooks, and best practices.",
+  "content": "<p>React is a <strong>component-based JavaScript library</strong> used to build modern, fast, and interactive user interfaces.</p> <h2>Core Concepts</h2> <ul> <li><strong>JSX</strong> – Writing HTML inside JavaScript.</li> <li><strong>Components</strong> – Reusable building blocks of UI.</li> <li><strong>Hooks</strong> – Special functions like <code>useState</code> and <code>useEffect</code>.</li> </ul> <h2>Example Component</h2> <pre><code>import { useState } from 'react'; function Counter() { const [count, setCount] = useState(0); return ( <div> <h3>Count: {count}</h3> <button onClick={() => setCount(count + 1)}>Increment</button> </div> ); }</code></pre> <blockquote>“The future of web is component-driven.”</blockquote>"
+}

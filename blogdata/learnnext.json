@@ -1,0 +1,5 @@
+{
+  "title": "Learn Next.js in 2025",
+  "metaDesc": "Understand Next.js in 2025 with server-side rendering, static generation, and API routes.",
+  "content": "<p>Next.js is a <strong>React framework</strong> that makes building production-ready apps much easier. It handles routing, API endpoints, and performance optimization out of the box.</p> <h2>Key Features</h2> <ol> <li>File-based Routing</li> <li>Server-Side Rendering (SSR)</li> <li>Static Site Generation (SSG)</li> <li>API Routes</li> </ol> <h2>API Example</h2> <pre><code>export default function handler(req, res) { res.status(200).json({ message: 'Hello from Next.js API!' }); }</code></pre> <p>Explore more at the <a href='https://nextjs.org/docs'>official Next.js Docs</a>.</p>"
+}

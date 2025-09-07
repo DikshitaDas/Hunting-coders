@@ -1,0 +1,5 @@
+{
+  "title": "Master JavaScript in 2025",
+  "metaDesc": "A complete beginner-friendly guide to mastering JavaScript in 2025 with examples, tips, and modern best practices.",
+  "content": "<p>JavaScript is the <strong>backbone of modern web development</strong>. It powers interactivity on websites, builds dynamic applications, and connects front-end with back-end.</p><h2>Why Learn JavaScript?</h2><ul><li>It runs in <strong>every browser</strong>.</li><li>Powers frameworks like <em>React, Angular, Vue</em>.</li><li>Can also be used on the server with <code>Node.js</code>.</li></ul><blockquote>“Any application that can be written in JavaScript, will eventually be written in JavaScript.” — Jeff Atwood</blockquote><h2>Example</h2><pre><code>const greet = (name) => { return `Hello, ${name}!`; };console.log(greet(\"World\"));</code></pre><p>Want to go deeper? Check out the <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>MDN Docs</a>.</p>"
+}

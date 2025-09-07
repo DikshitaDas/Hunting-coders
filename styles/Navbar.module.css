@@ -1,0 +1,45 @@
+.mainNav {
+  background: #ffffff;
+  border-bottom: 1px solid #eaeaea;
+  padding: 12px 24px;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.mainNav ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.mainNav li {
+  margin: 0;
+}
+
+.mainNav a {
+  text-decoration: none;
+  font-weight: 500;
+  color: #333;
+  font-size: 16px;
+  padding: 6px 10px;
+  border-radius: 4px;
+  transition: all 0.2s ease;
+}
+
+/* Hover effect */
+.mainNav a:hover {
+  color: #7928ca;
+  background: rgba(121, 40, 202, 0.08);
+}
+
+/* Active link underline */
+.mainNav a.active {
+  color: #7928ca;
+  border-bottom: 3px solid #7928ca;
+  font-weight: 600;
+}

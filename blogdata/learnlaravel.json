@@ -1,0 +1,5 @@
+{
+  "title": "Learn Laravel in 2025",
+  "metaDesc": "A complete guide to Laravel in 2025 with routing, controllers, Blade templates, and Eloquent ORM.",
+  "content": "<p><strong>Laravel</strong> is a modern PHP framework that makes web development elegant and developer-friendly. It follows the <em>MVC (Model-View-Controller)</em> pattern.</p> <h2>Why Laravel?</h2> <ul> <li>Beautiful syntax and developer experience.</li> <li>Comes with authentication, routing, sessions, and caching out of the box.</li> <li>Powerful <code>Eloquent ORM</code> for database handling.</li> </ul> <h2>Basic Route Example</h2> <pre><code>Route::get('/welcome', function () { return view('welcome'); });</code></pre> <blockquote>“Laravel is not only a framework, it's a way of writing clean PHP.”</blockquote> <p>Learn more at the <a href='https://laravel.com/docs'>Laravel Docs</a>.</p>"
+}
